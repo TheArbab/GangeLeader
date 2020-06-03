@@ -247,18 +247,19 @@ def menu():
 	print "\033[1;97m«--•◄►••◄►•--\033[1;93mLogged in User Info\033[1;97m---•◄►••◄►•---»"
 	print "	   \033[1;93m ◄►••◄►Name\033[1;97m:\033[1;91m"+nama+"\033[1;93m               "
 	print "	   \033[1;93m ◄►••◄►ID\033[1;97m:\033[1;92m"+id+"\x1b[1;96m              "
-	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;91mBlackTiger\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
+	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;91mArbab-Memon\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
 	print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m1.\x1b[1;93m Start Attack On India"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;92m Start Attack On Pakistan ID&(Group)"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m3.\x1b[1;96m Start Attack On Indonasia"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m4.\x1b[1;95m Start Attack On USA(America)"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m5.\x1b[1;94m Start Attack On Bangladash"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m6.\x1b[1;93m Start Attack All Countris"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m7.\x1b[1;95m Start Attack Member Group "
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m8.\x1b[1;92m Start Target  Attack"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m9.\x1b[1;91m Black Cyber Hacker   Massage "
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m10.\033[1;93mShow  Token"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m11.\033[1;91mAfter Cloning Data Reset "
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m6.\x1b[1;94m Start Attack On Iran"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m7.\x1b[1;93m Start Attack All Countris"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m8.\x1b[1;95m Start Attack Member Group "
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m9.\x1b[1;92m Start Target  Attack"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m10.\x1b[1;91m Black Cyber Hacker   Massage "
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m11.\033[1;93mShow  Token"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m12.\033[1;91mAfter Cloning Data Reset "
 	print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m0.\033[1;91m logout "
 	pilih()
 
@@ -278,15 +279,17 @@ def pilih():
 		black()
         elif unikers =="5":
 		Tiger()
-        elif unikers =="6":
-		test()
+	elif unikers =="6":
+		Arbab()
         elif unikers =="7":
-		clone_dari_member_group()
+		test()
         elif unikers =="8":
+		clone_dari_member_group()
+        elif unikers =="9":
 		os.system('clear')
 		print logo
 		brute()
-        elif unikers =="9":
+        elif unikers =="10":
 		os.system('clear')
 		print logo
 		print " \033[1;91m•◄►•═ ═ ═ ═ ═ ═ ═•◄►•Massage•◄►•═ ═ ═ ═ ═ ═ ═•◄►•\n"
