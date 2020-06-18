@@ -1567,7 +1567,7 @@ def pilih_Tiger():
  
          Checkpoint ID Open After 7 Days
 •\033[1;97m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.
-: \033[1;94m .....Rana Aahil  BlackTiger....... \033[1;97m :
+: \033[1;94m .....Arbab  CyberGange....... \033[1;97m :
 •\033[1;97m◄►•═ ═ ═ ═ ═ ═ ═•◄►•═ ═ ═ ═ ═ ═ ═•◄►•.' 
                 JOIN ME
               \033[1;94m +923003023263"""
